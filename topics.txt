@@ -10,3 +10,5 @@ Barvy
 Databaze
 
 (to je vse co si pamatuju)
+
+merge a merge conflict
