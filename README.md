@@ -1,1 +1,1 @@
-# sivt
+Tento repozitar shrnuje projekty a temata, která jsme probrali v semináři a popisuje základnici 5 git příkazu.
