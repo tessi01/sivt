@@ -1,0 +1,14 @@
+git init
+Popis: Inicializuje nový, prázdný Git repozitář v aktuálním adresáři. Vytvoří skrytou složku .git.
+
+git clone [url]
+Popis: Zkopíruje (stáhne) již existující vzdálený repozitář (např. z GitHubu) do vašeho lokálního počítače.
+
+git add [soubor]
+Popis: Přidá změny v souborech ze pracovního adresáře do tzv. "staging area" (připraveno k commitu). Příkaz git add . přidá všechny změněné soubory.
+
+git commit -m "zpráva"
+Popis: Vytvoří snímek (commit) změn, které byly přidány pomocí git add, a uloží je trvale do historie. Zpráva by měla popisovat, co bylo změněno.
+
+git push
+Popis: Odešle vaše lokální commity (změny) do vzdáleného repozitáře (např. na GitHub), aby byly sdíleny s ostatními. 
